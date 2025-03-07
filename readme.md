@@ -6,5 +6,5 @@ Simple color matching of [Steve Smith's](https://github.com/orderedlist) Minimal
 
 Orginal: [GitHub - orderedlist/minimal: A Theme for GitHub Pages](https://github.com/orderedlist/minimal)
 
-Demo: [https://arch.sda.wtf](https://arch.sda.wtf)
+Demo: [https://arch.sda.wtf](https://sudo.lat)
 
